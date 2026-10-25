@@ -1,4 +1,4 @@
-# Asystent-Sprzedawcy
+# Generator ofert DREMAR – asystent sprzedawcy
 
 Prywatne narzędzie do zarządzania **moim własnym** kontem sprzedawcy na Allegro. Nie jest udostępniane innym sprzedawcom i nie świadczy usług osobom trzecim.
 
